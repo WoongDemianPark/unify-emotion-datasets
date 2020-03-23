@@ -100,3 +100,111 @@ Examples of how to use it for various tasks:
  `jq 'select(.source=="crowdflower" or .source =="tec")' <unified-dataset.jsonl | less `
 - count how often instances are annotated with high surprise per dataset
 `jq 'select(.emotions.surprise >0.5) | .source' <unified-dataset.jsonl | sort | uniq -c`
+'''
+<examples>
+10 sentences for each
+- joy
+- trust
+- fear
+- surprise
+- sadness
+- disgust
+- anger
+- anticipation
+
+## joy
+1. But Nutkin ran in front laughing, and shouting
+2. Nutkin danced up and down like a sunbeam
+3. He comes roaring up the land!
+4. Then they squeaked with joy!
+5. Shall we dear little muffins?
+6. The cat family had quite recovered
+7. The little mice only laghed
+8. Mittens laughed so that she fell off the wall
+9. It's a very fine morning!
+10. Let us have a dinner party all to ourselves!
+
+## trust
+1. Michelle Obama has the best arms
+2. Revealed a lot about who he is as a man
+3. Barak is luckly to have an intelligent woman
+4. Don't forget to register to vote
+5. Thank you for honoring the great workers
+6. It's time to do some nation building right here
+7. Honestly think America would benefit
+8. You're my dude
+9. Everyone needs to get the vote!
+10. It's about what kind of difference you make!
+
+## fear
+1. She seemed to be in a terrible fright.
+2. Oh, my poor son Thomas!
+3. Tom Kitten was getting very frightened!
+4. It was most confusing in the dark.
+5. Peter heard noises worse than ever.
+6. A little frightened voice called out.
+7. Peter was most dreadfully frightened.
+8. He was out of breath and trembling with fright
+9. Inside the house the racket was fearful.
+10. He was afraid to go to sleep himself.
+
+## surprise
+1. This is very peculiar
+2. What's that?
+3. How could I have swallowed it!
+4. Is it possible?
+5. What pretty dancing shoes!
+6. What does this mean?
+7. What a quantity of gold there was!
+8. Why are you lying up there?
+9. Are you mad? they all cried
+10. What a lucky fellow you are!
+
+## sadness
+1. I'm in sad trouble
+2. It feels sad
+3. Peter began to cry
+4. Tears stood in his eyes
+5. Cried the little boy
+6. It is all over with me
+7. The old grandfatehr wiped his eyes
+8. It made little tiny very sad to see it
+9. Tears of sorrow rolled down their cheeks
+10. There she stood and cried
+
+## disgust
+1. He shut his eyes obstinately
+2. Old Mr. Brown turned up his eyes in disgust
+3. It smells sooty
+4. What a nasty person!
+5. I must have a disinfecting
+6. That is a gangerous woman
+7. But he is so big and ugly
+8. What an absurd idea
+9. It is very naughty
+10. That is tiresome
+
+## anger
+1. I do not think
+2. You're a rude fellow
+3. Go out of my sight
+4. We will revenge ourselves
+5. The young storks were very angry
+6. It is stupid nonsense to allow yourself
+7. Ignorance upon ignorance indeed!
+8. Get away, don't come so near me
+9. Everything in it is so stupid
+10. I will destroy everything
+
+## anticipation
+1. So looking forward to the debate tonight
+2. I can't wait to vote
+3. Getting ready for an exciting speech
+4. Finally catching up all the speeches
+5. Really fantastic video
+6. I wonder what Barack would say
+7. I am really looking forward to
+8. Glad we will be in center for DNC
+9. The best part of any election is just afterwards
+10. We can do better!
+'''
