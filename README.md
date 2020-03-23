@@ -101,7 +101,9 @@ Examples of how to use it for various tasks:
 - count how often instances are annotated with high surprise per dataset
 `jq 'select(.emotions.surprise >0.5) | .source' <unified-dataset.jsonl | sort | uniq -c`
 '''
-<examples>
+
+examples
+
 10 sentences for each
 - joy
 - trust
