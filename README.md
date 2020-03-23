@@ -102,9 +102,7 @@ Examples of how to use it for various tasks:
 `jq 'select(.emotions.surprise >0.5) | .source' <unified-dataset.jsonl | sort | uniq -c`
 '''
 
-examples
-
-10 sentences for each
+# Selectec Sentences (10 sentences for each category)
 - joy
 - trust
 - fear
