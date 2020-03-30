@@ -167,7 +167,7 @@ Examples of how to use it for various tasks:
 4. Tears stood in his eyes
 5. Cried the little boy
 6. It is all over with me
-7. The old grandfatehr wiped his eyes
+7. The old grandfather wiped his eyes
 8. It made little tiny very sad to see it
 9. Tears of sorrow rolled down their cheeks
 10. There she stood and cried
@@ -178,7 +178,7 @@ Examples of how to use it for various tasks:
 3. It smells sooty
 4. What a nasty person!
 5. I must have a disinfecting
-6. That is a gangerous woman
+6. That is a dangerous woman
 7. But he is so big and ugly
 8. What an absurd idea
 9. It is very naughty
