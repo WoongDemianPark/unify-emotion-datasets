@@ -123,6 +123,16 @@ Examples of how to use it for various tasks:
 8. Mittens laughed so that she fell off the wall
 9. It's a very fine morning!
 10. Let us have a dinner party all to ourselves!
+11. Come in good time, my dear Duchess
+12. He sat and smiled
+13. Your very good health
+14. He think it is a very funny bird!
+15. It was most kind to Timmy Tiptoes
+16. I thank you kindly
+17. Oh what a good idea!
+18. I am glad I used the bottom oven
+19. Oh what lovely flowers!
+20. How good that pie smells!
 
 ## trust
 1. Michelle Obama has the best arms
@@ -135,6 +145,16 @@ Examples of how to use it for various tasks:
 8. You're my dude
 9. Everyone needs to get the vote!
 10. It's about what kind of difference you make!
+11. What a tremendous patriot he is
+12. His future is so bright
+13. I am the hope you have been in search of
+14. a true orator for our time
+15. We are not going back we are moving forward
+16. Am I seriously the only one who knows that
+17. I just wanna cry at how amazing he is at what he does
+18. That was such a good visual of what life could be
+19. It is important to show Christ's love for all people
+20. I support helping the needy
 
 ## fear
 1. She seemed to be in a terrible fright.
@@ -147,6 +167,16 @@ Examples of how to use it for various tasks:
 8. He was out of breath and trembling with fright
 9. Inside the house the racket was fearful.
 10. He was afraid to go to sleep himself.
+11. I can hear them clucking!
+12. He began to walk frightfully lame
+13. How they terrified the poor duckling!
+14. Sleep was still in his eyes, but yet he crowed out
+15. I was frightened, to be sure
+16. The poor little elf was very much frightened
+17. Driven by fear and horror, she flew homeward
+18. He was of opinion that he had nothing to fear
+19. The rats are eating her up alive!
+20. There arose a very terrible storm
 
 ## surprise
 1. This is very peculiar
@@ -159,6 +189,16 @@ Examples of how to use it for various tasks:
 8. Why are you lying up there?
 9. Are you mad? they all cried
 10. What a lucky fellow you are!
+11. Oh, how his heart did best!
+12. How she glittered!
+13. What a rediculous little shoot!
+14. Dear me! how singular
+15. Oh dear, what was that?
+16. It is dreadfully hot here!
+17. Well, it's most abominably hot here
+18. Oh, how cold the water is!
+19. As if these things were of any consequence!
+20. It is just what I expected!
 
 ## sadness
 1. I'm in sad trouble
@@ -171,6 +211,16 @@ Examples of how to use it for various tasks:
 8. It made little tiny very sad to see it
 9. Tears of sorrow rolled down their cheeks
 10. There she stood and cried
+11. Alas, unfortunate creature that I am!
+12. Oh, how wretched I am!
+13. Unfortunately I have not long to live
+14. I long for it almost with pain
+15. I am weary with longing
+16. Oh! it is terrible lonely here
+17. Poor little creature!
+18. Oh, what bitter tears she shed!
+19. And I often cried about you
+20. Oh, I cannot bear it
 
 ## disgust
 1. He shut his eyes obstinately
@@ -183,6 +233,16 @@ Examples of how to use it for various tasks:
 8. What an absurd idea
 9. It is very naughty
 10. That is tiresome
+11. The neighbors declared it was unbearable
+12. That was a terrible affair!
+13. It is a horrible story
+14. We think it is a very miserable story
+15. There's a not a drop of malicious blood in me
+16. You must not say that
+17. This sight is really too tedious
+18. and it looks miserable here
+19. I was soon very tired of it
+20. She has drunk herself to death
 
 ## anger
 1. I do not think
@@ -195,6 +255,16 @@ Examples of how to use it for various tasks:
 8. Get away, don't come so near me
 9. Everything in it is so stupid
 10. I will destroy everything
+11. You bad boy!
+12. You wicked boy!
+13. I don't understand your outlandish talk
+14. His first feeling was one of anger
+15. What a goose you are to do such silly things!
+16. That is too bad!
+17. How can you dare
+18. Said she with angry look
+19. You shall suffer for it!
+20. Then the King grew angry
 
 ## anticipation
 1. So looking forward to the debate tonight
@@ -207,4 +277,15 @@ Examples of how to use it for various tasks:
 8. Glad we will be in center for DNC
 9. The best part of any election is just afterwards
 10. We can do better!
+11. Feels like yesterday I was here in Concord
+12. I bought two pins one for me
+13. Just got in my first political debate ever
+14. Is anybody else excited for debates to start?
+15. Anyone else find it weird?
+16. I hope people have enough common sense
+17. Consider what the world would be now
+18. Things that are politically incorrect?
+19. Don't know why but I am really looking forward to
+20. Don't forget to watch CNN tonight.
+
 '''
